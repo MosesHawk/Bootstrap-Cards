@@ -1,0 +1,60 @@
+.card1 {
+  background-color: hsl(31deg, 77%, 52%);
+}
+.card1 h2 {
+  font-family: Big Shoulders Display;
+  color: hsl(0deg, 0%, 95%);
+  font-size: 40px;
+}
+.card1 h2 + p {
+  font-family: Lexend Deca;
+  color: hsla(0deg, 0%, 100%, 0.75);
+  font-size: 15px;
+}
+
+.card2 {
+  background-color: hsl(184deg, 100%, 22%);
+}
+.card2 h2 {
+  font-family: Big Shoulders Display;
+  color: hsl(0deg, 0%, 95%);
+  font-size: 40px;
+}
+.card2 h2 + p {
+  font-family: Lexend Deca;
+  color: hsla(0deg, 0%, 100%, 0.75);
+  font-size: 15px;
+}
+
+.card3 {
+  background-color: hsl(179deg, 100%, 13%);
+}
+.card3 h2 {
+  font-family: Big Shoulders Display;
+  color: hsl(0deg, 0%, 95%);
+  font-size: 40px;
+}
+.card3 h2 + p {
+  font-family: Lexend Deca;
+  color: hsla(0deg, 0%, 100%, 0.75);
+  font-size: 15px;
+}
+
+button {
+  background-color: hsl(0deg, 0%, 95%);
+  height: 50px;
+  width: 150px;
+  border: none;
+}
+
+.b1 {
+  color: hsl(31deg, 77%, 52%);
+}
+
+.b2 {
+  color: hsl(184deg, 100%, 22%);
+}
+
+.b3 {
+  color: hsl(179deg, 100%, 13%);
+}/*# sourceMappingURL=styles.css.map */
